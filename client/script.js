@@ -85,7 +85,7 @@ const handleSubmit = async (e) => {
   loader(messageDiv);
 
   const response = await fetch(
-    "https://codex-your-coding-ai-rhlo.onrender.com",
+    "https://codex-your-coding-ai-f1dq.onrender.com/",
     {
       method: "POST",
       headers: {
